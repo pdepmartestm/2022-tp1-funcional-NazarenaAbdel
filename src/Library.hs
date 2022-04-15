@@ -21,10 +21,6 @@ grupoB = UnGrupo "Leo" 53 [20, 20, 18]
 grupoC :: Grupo 
 grupoC = UnGrupo "Maria" 30 []
 
-grupoD :: Grupo 
-grupoD = UnGrupo "Juan" 80 [15,20,40]
-
-
 
 -- FUNCIONES
 contarIntegrantes ::Grupo -> Number 
